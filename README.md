@@ -1,11 +1,11 @@
-#Student Management System
+# Student Management System
 
 
-##Description
+## Description
 
 The Student Management System is a desktop application designed to help educational institutions manage student records efficiently. This project is built using Python with the Tkinter library for the graphical user interface (GUI) and MySQL as the database, managed via XAMPP.
 
-##Features
+## Features
 
 Add, update, delete, and view student records
 
@@ -17,7 +17,7 @@ Secure login system for administrators
 
 User-friendly GUI with Tkinter
 
-##Technologies Used
+## Technologies Used
 
 Programming Language: Python
 
