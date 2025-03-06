@@ -27,3 +27,9 @@ Database: MySQL (via XAMPP)
 
 Libraries: `pymysql`, `tkinter`
 
+# Learn More  
+
+Check out my Medium article for a detailed breakdown of this project:  
+
+[Student Management System Project in Python](https://medium.com/@yahiazakaria445/student-management-system-project-in-python-a06f94b5bc50)
+
